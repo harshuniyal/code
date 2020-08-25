@@ -1,2 +1,2 @@
 a=100
-print(zero)
+print(a)
